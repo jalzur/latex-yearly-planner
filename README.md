@@ -11,8 +11,8 @@ Anyhow, more info on this will come.
 
 ### Tackling
 
-I suggest looking at [rubify2](https://github.com/kudrykv/latex-yearly-planner/tree/rubify2) branch.
-It is an ongoing refactor, and it can generate MOS template.
+I suggest looking at [alpha](https://github.com/kudrykv/latex-yearly-planner/tree/alpha) branch.
+It is an ongoing refactor (that would hopefully be complete one day 🤞).
 
 ## Quick Start Guide
 Here are the steps to quickly get the project up and running.
